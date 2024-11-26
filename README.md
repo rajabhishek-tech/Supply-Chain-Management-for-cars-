@@ -1,3 +1,7 @@
+Supply Chain Management for cars
+
+
+
 This project focuses on streamlining and analyzing the supply chain management system for the automobile sector. The workflow incorporates advanced data handling and visualization techniques to provide actionable insights.
 Data Collection,
 Exploratory Data Analysis (EDA),
